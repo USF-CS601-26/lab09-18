@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance.creatures;
 
 /**
  *  Represents an Alien, a subclass of Creature.

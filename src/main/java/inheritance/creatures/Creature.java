@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance.creatures;
 
 // Parent class Creature
 public class Creature {

@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance.creatures;
 
 /**
  * Represents a Human, a subclass of Creature.
